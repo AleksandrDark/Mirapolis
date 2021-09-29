@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="testAuthorizationMira">
+    <test name="testAuthorizationMira">
+        <packages>
+            <package name="ru.demo.mirapolis.testlogic"></package>
+        </packages>
+    </test>
+</suite>
